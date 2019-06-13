@@ -1,0 +1,5 @@
+Click==7.0
+mysql-connector==2.2.9
+ops241-radar==0.0.3
+pygame==1.9.6
+pyserial==3.4
